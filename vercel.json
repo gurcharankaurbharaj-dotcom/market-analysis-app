@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "devCommand": "next dev",
+  "env": {
+    "NEXT_PUBLIC_API_KEY": "@next_public_api_key"
+  }
+}
